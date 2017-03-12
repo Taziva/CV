@@ -1,43 +1,23 @@
 ## Shoniwa Marovatsanga
 
-After graduating from university I began working in the music industry. It was during this time that I discovered and became fascinated with software development. The concept of using creativity to solve problems and make ideas into reality struck a chord with me and ignited a new drive to learn more about programming. I then took part in several courses to learn the fundamentals of programming including a Microsoft Certification in Web Development Fundamentals and I am also currently attending Makers Academy. After finishing Makers Academy I hope to find a Junior Developer role in a diverse organisation crafts outstanding and creative software that either solves current problems or pushes society forward to a brighter future.
+I am a junior full stack developer looking to learn and work on creative innovative ideas that can ave a positive effect on the world. One of my core beliefs is the concept of social responsibility, as an individual I want to make sure that the majority of my life's work goes towards improving people's lives in any shape or form and I believe continuous learning may be the key to achieving this.
+
+I found Makers Academy very beneficial to my growth as a developer as I was taught the two sides of being a great professional developer. On one side I was taught the best practices when it comes to creating good expandable software and writing good code. On the other side Makers Academy gave me a great environment to learn and practice the Extreme Programming XP values in an environment that closely simulated real work environments.
 
 ## Skills
 
-#### Communication
+#### Problem Solving
 
-Earnestly interact with those around me with respect and goodwill for better collaboration and cooperation on any level.
+Solving problems is essentially the purpose of software developing, and so in order to be a good software developer it is important to be a good problem solver. Taking on board this belief I have worked hard to improve my problem solving skills and techniques by opening my self up to different programming situations and experiences, for example during group projects if a a pairing came across a bug I would work with them to solve it or if that was not possible I would enquire as to the nature of how they solved it in order to absorb some of techniques they could've used to find it.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
+#### Continuos Learning
 
-#### Beautiful Utilitarianism
+In order to improve something one must first understand it, and in order to understand it you must first learn about it. When I started working at Music Concierge I grew attached to this ethos and applied it to my daily work day always trying to learn a new way to make my job more efficient, to make my job easier but producing higher quality and it was a such a success that I decided to apply it every aspect of my life in order to improve my life and of those around me. On a daily basis I am always trying to learn something new, which could help me to achieve my goals.
 
-Focusing on impeccable function with minimalistic design in order to deliver a greater result.
+#### Good Collaborator
 
-- Experience
-- Achievements
-- Evidence
-
-#### Test Driven Development
-
-Ensuring the product works on every iteration to maintain a forward momentum when developing
-
-- Experience
-- Achievements
-- Evidence
-
-#### Technologically Adaptive
-
-Always keeping up with new innovative technology in order to always maintain an idea of new ways to solve problems and new and better means of delivering high quality results
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+As the saying goes no man is an island, it is very hard for man to achieve great things working alone as collaboration has always been the key to innovation. In order to build the world we currently live in humans have always worked together to build a bigger and brighter future. In software development collaboration is an important part of every project from working in groups to deliver good products to pair programming in order to write great maintainable code, with this in mind I actively work to maintain a great level of engagement and participation on every project I take part in using the Extreme Programming XP values to try and make sure every project is a good experience for everyone.
 
 ## Education
 
@@ -63,5 +43,11 @@ Always keeping up with new innovative technology in order to always maintain an 
 
 **Music Concierge** (November 2015 to November 2016)    
 *Audio Engineer*  
-**Mears Ltd** (September 2015 to November 2015)   
-*Customer Service Agent*  
+
+## Hobbies and Interests
+
+* Music - I enjoy both listening to music and creating my own when I have time
+* Football - I like to watch it when possible but I prefer to play at any opportunity
+* Blogging - Everyday I try to take a picture of one cool thing I see or to write about it. It helps me to always make sure that I appreciate the blessings in my life.
+* Video Games - Every few months I try to find a great game and immerse myself into it. Games are one of the best entertainment mediums in the world and can be helpful in storytelling and learning.
+* Reading - I usually learn through watching videos however sometimes it takes a good book to really hammer home a hard to grasp concept.
