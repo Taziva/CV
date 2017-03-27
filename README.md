@@ -4,6 +4,13 @@ I am a junior full stack developer looking to learn and work on creative innovat
 
 I found Makers Academy very beneficial to my growth as a developer as I was taught the two sides of being a great professional developer. On one side I was taught the best practices when it comes to creating good expandable software and writing good code. On the other side Makers Academy gave me a great environment to learn and practice the Extreme Programming XP values in an environment that closely simulated real work environments.
 
+## Projects
+
+| Project Repo & Site  | Description | Technology | Struggles | Enjoyed |
+|----------------------|-------------|--------------|----------------|---------|
+|[Deveoper's Dictionary Repo](https://github.com/KatHicks/developers-dictionary)<br>**[Visit the Live Site](http://www.developers-dictionary.co.uk/)** | A fun and engaging definitions resource for software developers. | MongoDB, Express, Node.js, SVG, Bootstrap. **Testing:** Mocha, Chai, Zombie, Should.  | To make our project fun and engaging we decided to incorporate a wheel with all of our defined terms. It was hard to manage the implementation of something we had not done before| After having spent a few weekends practicing using a javascript stack it was good to finally use it for a project and the fact that our work is now live |
+|[Majordomo Repo](https://github.com/sliute/majordomo)<br>**[Demo on Heroku](https://majordomo-makers.herokuapp.com/)** | A room booking and occupancy web app. It allows users to book rooms for meetings in the Makers Academy Building. It comes with a green and red status screen for when the room is in use | Ruby 2.3.3, Rails 5.0.1, Postgresql, date_validator, Haml, simple_calendar, Bootstrap. **Testing:** Rspec-rails & Capybara  | After just recently learnt Rails trying to use it to create a full scale project started off a bit difficult but got easier with time. | Participating in this project gave me the opportunity to refresh my front-end knowledge to create a beautiful interface.|
+
 ## Skills
 
 #### Problem Solving
