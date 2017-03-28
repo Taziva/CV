@@ -30,12 +30,12 @@ As the saying goes no man is an island, it is very hard for man to achieve great
 
 #### Makers Academy (January 2017 to March 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Curiosity and intense drive to learn
+- Knowledge working and Problem Solving
+- Pair Programming, OOP, TDD, SOLID, MVC, BDD, Agile
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js, Rspec, Jasmine, Mocha, PostgreSQL
+- XP Values
 
 #### University of Westminster (September 2012 to July 2015)
 
