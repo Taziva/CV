@@ -4,6 +4,8 @@ I am a junior full stack developer looking to learn and work on creative innovat
 
 I found Makers Academy very beneficial to my growth as a developer as I was taught the two sides of being a great professional developer. On one side I was taught the best practices when it comes to creating good expandable software and writing good code. On the other side Makers Academy gave me a great environment to learn and practice the Extreme Programming XP values in an environment that closely simulated real work environments.
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#Interests) |
+
 ## Projects
 
 | Project Repo & Site | Description | Technology :wrench:| Struggles :persevere:| Enjoyed :smiley:|
@@ -51,7 +53,7 @@ As the saying goes no man is an island, it is very hard for man to achieve great
 **Music Concierge** (November 2015 to November 2016)    
 *Audio Engineer*  
 
-## Hobbies and Interests
+## Interests
 
 * Music - I enjoy both listening to music and creating my own when I have time
 * Football - I like to watch it when possible but I prefer to play at any opportunity
