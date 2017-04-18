@@ -1,5 +1,7 @@
 ## Shoniwa Marovatsanga
 
+[Blog](https://ourblindmouse.com) 
+
 I am a junior full stack developer looking to learn and work on creative innovative ideas that can have a positive effect on the world. One of my core beliefs is the concept of social responsibility, as an individual I want to make sure that the majority of my life's work goes towards improving people's lives in any shape or form and I believe continuous learning may be the key to achieving this.
 
 I found Makers Academy very beneficial to my growth as a developer as I was taught the two sides of being a great professional developer. On one side I was taught the best practices when it comes to creating good expandable software and writing good code. On the other side Makers Academy gave me a great environment to learn and practice the Extreme Programming XP values in an environment that closely simulated real work environments.
