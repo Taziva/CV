@@ -34,13 +34,21 @@ As the saying goes no man is an island, it is very hard for man to achieve great
 
 ## Education
 
-#### Makers Academy (January 2017 to March 2017)
+#### Makers Academy (January 2017 to April 2017)
 
 - Curiosity and intense drive to learn
 - Knowledge working and Problem Solving
 - Pair Programming, OOP, TDD, SOLID, MVC, BDD, Agile
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Rspec, Jasmine, Mocha, PostgreSQL
+- XP Values
+
+#### Free Code Camp (January 2016 to December 2017)
+
+- Working with a development community
+- Knowledge working and Problem Solving
+- Creating simple Javascript Applications and Webpages
+- Javascript, Node.js, Jasmine, Mocha
 - XP Values
 
 #### University of Westminster (September 2012 to July 2015)
@@ -54,13 +62,15 @@ As the saying goes no man is an island, it is very hard for man to achieve great
 
 ## Experience
 
+**Honeycomb TV** (June 2017 to present)
+*Software Engineer*
+
 **Music Concierge** (November 2015 to November 2016)    
 *Audio Engineer*  
 
 ## Interests
 
+* Programming - Creating Apps and the like recently moved into mobile development with React Native and PWAs
 * Music - I enjoy both listening to music and creating my own when I have time
-* Football - I like to watch it when possible but I prefer to play at any opportunity
-* Blogging - Everyday I try to take a picture of one cool thing I see or to write about it. It helps me to always make sure that I appreciate the blessings in my life. My blog is available [here](https://www.ourblindmouse.com)
-* Video Games - Every few months I try to find a great game and immerse myself into it. My favourite games include Final Fantasy, Fifa, and Metal Gear Solid.
-* Reading - Even though video tutorials tend to be more popular, books still one of the best resources for learning new subjects.
+* Blogging - Everyday I try to take a picture of one cool thing I see or to write about it. It helps me to always make sure that I appreciate the blessings in my life. My blog is available [here](https://ourblindmouse.com)
+* Games - Every few months I try to find a great game and immerse myself into it. My favourite games include Final Fantasy, Fifa, and Metal Gear Solid.
